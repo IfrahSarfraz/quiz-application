@@ -1,9 +1,14 @@
-# quiz-application
 
 # Quiz App
 
 This is a simple Quiz Application built using HTML, CSS, and JavaScript. The app presents multiple-choice questions to users and provides immediate feedback. It tracks the user's selections, calculates scores, and provides a summary of the quiz results at the end.
 
+## Screenshots
+![website img](https://github.com/user-attachments/assets/17b6fe6b-bcf6-48e0-8445-03e6681b9e96)
+
+## Demo
+
+Check out the live demo of the dashboard [here](https://ifrahsarfraz.github.io/quiz-application/).
 ## Features
 
 - Timer: Each question has a 15-second timer.
@@ -52,4 +57,3 @@ If you have any suggestions or improvements, feel free to fork the repository an
 This project is open-source and available under the MIT License.
 
 
-Replace "https://github.com/yourusername/quiz-app.git" with your actual GitHub repository URL. This README provides a comprehensive overview of your quiz application, including features, installation instructions, usage, and key functions.
